@@ -1,0 +1,10 @@
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\bin\Debug\DotNetCompressorDecompressor.exe.config
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\bin\Debug\DotNetCompressorDecompressor.exe
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\bin\Debug\DotNetCompressorDecompressor.pdb
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\bin\Debug\dnlib.dll
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\bin\Debug\dnlib.pdb
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\bin\Debug\dnlib.xml
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\obj\Debug\DotNetCompressorDecompressor.csprojAssemblyReference.cache
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\obj\Debug\DotNetCompressorDecompressor.csproj.CopyComplete
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\obj\Debug\DotNetCompressorDecompressor.exe
+C:\Users\BO3\Desktop\DotNetCompressorDecompressor\DotNetCompressorDecompressor\obj\Debug\DotNetCompressorDecompressor.pdb
